@@ -147,7 +147,7 @@ my first webpage
        ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 </body>
 </html>
-
+<style>
 #nav1{
     height: 40px;
     width: cover;
@@ -595,7 +595,7 @@ margin-left: 505px;
     font-size: 20px;
     
 }
-
+</style>
 
 
 
