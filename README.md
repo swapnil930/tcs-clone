@@ -147,3 +147,465 @@ my first webpage
        ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 </body>
 </html>
+
+#nav1{
+    height: 40px;
+    width: cover;
+    border: 1px solid none;
+    background-color:black;
+    display: flex;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 20px 20px 20px 0px;
+   
+  
+}
+#nav2{
+    height: 40px;
+    width: 700px;
+    border: 1px solid black;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+.nav{
+    height: 50px;
+    width: 100px;
+    border: 1px solid;
+    color: aliceblue;
+}
+#nav3{
+    height: 40px;
+    width:390px;
+    border: 1px solid black;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+.nav1{
+    height: 50px;
+    width: 100px;
+    border: 1px solid;
+    font-size:80px;
+    color: rgb(7, 8, 8);
+    
+}
+.a1{
+    color: #9e9fa3;
+    text-transform: uppercase;
+    font-size: .75rem;
+    letter-spacing: .15em;
+    font-family:bold;
+    text-decoration: none;
+    
+}
+#ic1{
+    font-size: 25px;
+    color: darkmagenta;
+    
+}
+#nav4{
+    width: cover;
+    height: 580px;
+    border: 1px solid none;
+    display: flex;
+    position: relative;
+    text-align: center;
+    background-color: black;
+    
+}
+.slide{
+    display: inline;
+    opacity: 50%;
+}
+#img4{
+    height: 768px;
+}
+#img5{
+    height: 768px;
+}
+.imgs{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    height: 100px;
+    width: 570px;
+    border: 1px solid none;
+    color: aliceblue;
+    text-wrap: wrap;
+    background-color: transparent;
+}
+#text1 {
+    top: 60px;
+    left: 320px;
+    font-size: 70px;
+}
+#text2{
+    top: 230px;
+    left: 320px;
+    font-size: 30px;
+}
+#text3{
+    top: 60px;
+    left: 1580px;
+    font-size: 70px;
+}
+#text4{
+    top: 230px;
+    left: 1580px;
+    font-size: 30px;
+}
+#text5{
+    top: 60px;
+    left: 2850px;
+    font-size: 70px;
+}
+#text6{
+    top: 230px;
+    left: 2850px;
+    font-size: 30px;
+}
+#text7{
+    top: 60px;
+    left: 4114px;
+    font-size: 70px;
+}
+#text8{
+    top: 230px;
+    left: 4114px;
+    font-size: 30px;
+}
+#text9{
+    top: 60px;
+    left: 5390px;
+    font-size: 70px;
+}
+#text10{
+    top: 230px;
+    left: 5390px;
+    font-size: 30px;
+}
+#nav5{
+    width: cover;
+    height: 70px;
+    border: 1px solid black;
+    background-color: black;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+#snap{
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 35px;
+}
+#nav6{
+height: 150px;
+width: cover;
+background-color: rgb(0, 0, 0);
+border: 1px solid none;
+display:flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.snap{
+height: 110px;
+width: 110px;
+background-color: rgb(0, 0, 0);
+border: 4px solid purple;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.pics{
+height: 100px;
+width: 100px;
+border-radius: 50%;
+}
+#nav7{
+    height: 500px;
+    width: cover;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: black;
+}
+.child{
+    height: 320px;
+    width: 400px;
+    border: 1px solid none ;
+    display:inline-block;
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+
+    
+}
+#child2{
+    margin-left: 100px;
+    font-size: 50px;
+}
+#child1{
+    height: 30px;
+    width: 350px;
+    border: 1px solid none ;
+    margin-left: 100px;
+    margin-top: 50px;
+    color:gray;
+}
+#child3{
+    margin-left: 760px;
+    font-size: 50px;
+    text-align: center;
+    background-color:darkslategray;
+    border-radius: 10px;
+}
+
+.btn1{
+    height: 60px;
+    width: 60px;
+    border: 1px solid ;
+    display: inline;
+    position: relative;
+    border-radius: 50%;
+    background: linear-gradient(102.57deg,#d0121e,#f84d9f 100%,#f84d9f 0); 
+}
+#btn1{
+margin-left:190px;
+}
+#nav8{
+    height: 50px;
+    width: cover ;
+    border: 1px solid none;
+    padding-bottom: 35px;
+    background-color: black;
+}
+.head2{
+    border: 1px solid none;
+    display: inline;
+    font-size: 30px;
+    color: azure;
+}
+#child4{
+    margin-left: 50px;
+}
+#child5{
+    margin-left: 815px;
+}
+#nav9{
+    height: 330px;
+    width:cover;
+    border: 1px solid none;
+    color: aliceblue;
+    background-color: black;
+    
+}
+.nav9{
+    height: 270px;
+    width: 360px;
+    border: 1px solid none;
+    display: inline;
+    margin-left: 40px;
+    opacity: 45%;
+}    
+.a2{
+    height: 27px;
+    width: 180px;
+    background-color: rgb(255, 255, 255);
+    margin-top:28px;
+    margin-left:-257px;
+    font-size: 20px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 4px;
+    text-decoration: none;
+    border-radius:25px;
+    
+}
+.a3{
+    margin-top:240px;
+    margin-left:-355px;
+    font-size: 18px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius:25px;
+    background-color: transparent;
+
+
+}
+#head3{
+    padding-left: 40px;
+    background-color: black;
+    color: azure;
+    padding-bottom: 20px;
+}
+#sec10{
+    border: 1px solid black none;
+    height: 750px;
+    width: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    display: flex;
+}
+#nav10{
+    width: 1001px;
+    height: 520px;
+    border: 1px solid rgb(239, 7, 7) none;
+    color:white;
+    margin-left: 125px;
+    background-color: blacks; 
+    position: absolute;
+    opacity: 60%;
+
+}
+#nav11{
+    height: 165px;
+    width: 340px;
+    border: 1px solid none;
+    margin-top: 160px;
+    margin-left: 380px;
+    color: azure;
+    position: absolute;
+    font-size: 25px;
+}
+#btn2{
+    height: 130px;
+    width: 100px;
+    border:1px solid ;
+    padding:12px;
+    border-radius: 30px;
+    color: aliceblue;
+    text-decoration: none;
+}
+#nav12{
+    height: 155px;
+    width: 200px;
+    padding-top: 30PX;
+    padding-left: 20PX;
+    border: 1px solid rgb(128, 0, 0);
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 250px;
+    font-size: 20px;
+    color: aliceblue;
+    line-height:30px;
+    background-color: black;
+}
+.head3child{
+    height: 155px;
+    width: 200px;
+    padding-top: 30PX;
+    padding-left: 20PX;
+    border: 1px solid rgb(255, 255, 255);
+    position: relative;
+    margin-top: 460px;
+    margin-left:30px;
+    font-size: 20px;
+    color: aliceblue;
+    line-height:30px;
+    background-color: black;
+    align-content: space-evenly;
+}
+#fst{
+margin-left: 505px;
+}
+#nav13{
+    height: 1000px;
+    width: cover;
+    background-color: aliceblue;
+}
+#nav14{
+    width: 600px;
+    height: 395px;
+    border: 1px solid none;
+    background-color: aliceblue;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    position: absolute;
+    margin-top: -525px;
+    margin-left: 500px;
+    padding: 50px;
+}
+#imga1{
+    height: 20px;
+    width: 300px;
+    border: 1px solid none;
+    position: absolute;
+    margin-top: 30px;
+}
+#imga2{
+    height: 100px;
+    width: 500px;
+    border: 1px solid none;
+    position: absolute;
+    margin-top: 70px;
+    font-size: 40px;
+    color:#b03c00;
+}
+#imga3{
+    height: 100px;
+    width: 600px;
+    border: 1px solid none;
+    position: absolute;
+    margin-top: 230px;
+    font-size: 20px;
+}
+#nav15{
+    width: 600px;
+    height: 395px;
+    border: 1px solid none;
+    background-color: aliceblue;
+    margin-left: 100px;
+    position: absolute;
+    margin-top:-525px;
+    margin-left: 40px;
+    padding: 50px;
+}
+#imgb1{
+    height: 20px;
+    width: 300px;
+    border: 1px solid none;
+    position: absolute;
+    margin-top: 30px;
+}
+#imgb2{
+    height: 100px;
+    width: 500px;
+    border: 1px solid none;
+    position: absolute;
+    margin-top: 70px;
+    font-size: 40px;
+    color:#b03c00;
+}
+#imgb3{
+    height: 100px;
+    width: 600px;
+    border: 1px solid none;
+    position: absolute;
+    margin-top: 230px;
+    font-size: 20px;
+    
+}
+
+
+
+
+    
+    
+
+
+
+
+        
+
+
+
