@@ -14,141 +14,7 @@ my first webpage
             background-size: 1300px;
             background-color: black;
         }
-    </style>
-</head>
-<body>
-    <section class="sec1">
-    <h1 id="Net">NETFLIX</h1>
-        <div class="nav"><select name="" id="lang" class="line">
-                <option value="">English</option>
-                <option value="">Hindi</option>
-                <option value="">Marathi</option></select>
-                <a href="http://www.netfix.com" style="text-align:center">Sign up</a>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-        </div>
-        <div id="text"><h1 class="text">
-            The biggest Indian hits. The best Indian stories. All streaming here.</h1>    
-        </div>
-        <div class="para"><h2>Watch anywhere. Cancel anytime.<br><br>
-                       <h3>Ready to watch? Enter your email to create or restart your membership.</h3>
-        </div>
-        <br>
-        <div class="f1" class="flex">
-            <label for="inp2"></label>
-            <input type="email" name="inp2" id="" placeholder="Email address" style="height: 56px; background-color: black; width: 320px; border: 1px solid white; border-radius: 5px; padding-left: 10px; cursor: text; background: transparent; color:aliceblue;">
-            <input type="button" value="Get Start >" style="height: 55px; background-color:red; width: 200px;border: 1px solid red; border-radius:5px; color: white; font-size:20px;">
-        </div>
-    </section>
-       <!-- 1st page code ended -->
-        <hr size="10px" color="gray">
-
-<section class="sec">
-    <div class="div1"><h1 class="text">Enjoy on your TV</h1></div>
-    <div class="div2"><p>Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p></div>
-    <div class="home"><img src="./Netflix-2.jpg" alt="" style="height: 192px; width: 335px;"></div>
-    <div class="img1"><img src="./tv.png" alt="" style="height: 354px; width: 463px;"></div>
-    
-</section>
-       <hr size="10px" color="gray">
-       <!--2nd page code ended -->
-
-<section class="sec">
-    <div class="div3"><h1 class="text">Download your shows to watch offline</h1></div>
-    <div class="div4"><p>Save your favourites easily and always have something to watch.</p></div>
-    <div class="img2"><img src="./mobile-0819.jpg" alt="" style="height: 354px; width: 463px;"></div>
-</section>
-    <hr size="10px" color="gray">
-    <!--3rd page code ended -->
-
-<section class="sec">
-    <div class="div1"><h1 class="text">Watch Everwhere</h1></div>
-    <div class="div2"><p>Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</p></div>
-    <div class="img1"><img src="./device-pile-in.png" alt="" style="height: 354px; width: 463px;"></div>
-</section>
-    <hr size="10px" color="gray">
-    <!--4th page code ended -->
-
-<section class="sec">
-    <div class="div3"><h1 class="text">Create profiles for kids</h1></div>
-    <div class="div4"><p>Send children on adventures with their favourite characters in a space made just for them—free with your membership.</p></div>
-    <div class="img2"><img src="./img3.png" alt="" style="height: 354px; width: 463px;"></div>
-</section>
-    <hr size="10px" color="gray">
-    <!--5th page code ended -->
-
-<section id="sec2">
-        <h1 id="text2">Frequently Asked Questions</h1>
-        div<details class="a1" style="color: white;">
-            <summary>What is Netflix?</summary>
-            <p>Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more – on thousands of internet-connected devices.</p><br>
-            <p>You can watch as much as you want, whenever you want, without a single ad – all for one low monthly price. There's always something new to discover, and new TV shows and movies are added every week!</p>
-        </details>
-
-        <details class="a1" style="color: white;">
-            <summary>How much does Netflix cost?</summary>
-            <p>Watch Netflix on your smartphone, tablet, Smart TV, laptop, or streaming device, all for one fixed monthly fee. Plans range from ₹149 to ₹649 a month. No extra costs, no contracts.</p>
-        </details>
-
-        <details class="a1" style="color: white;">
-            <summary>What is Netflix</summary>
-            <p>Watch anywhere, anytime. Sign in with your Netflix account to watch instantly on the web at netflix.com from your personal computer or on any internet-connected device that offers the Netflix app, including smart TVs, smartphones, tablets, streaming media players and game consoles.</p><br>
-            <p>You can also download your favourite shows with the iOS, Android, or Windows 10 app. Use downloads to watch while you're on the go and without an internet connection. Take Netflix with you anywhere.</p>
-        </details>  
-
-        <details class="a1" style="color: white;">
-            <summary>Where i can watch</summary>
-            <p>Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more – on thousands of internet-connected devices.</p><br>
-        </details>
-
-        <details class="a1" style="color: white;">
-            <summary>How do i cancel</summary>
-            <p>Netflix is flexible. There are no annoying contracts and no commitments. You can easily cancel your account online in two clicks. There are no cancellation fees – start or stop your account anytime.</p><br>
-        </details>
-
-        <details class="a1" style="color: white;">
-            <summary>What can i watch on Netflix</summary>
-            <p>Netflix has an extensive library of feature films, documentaries, TV shows, anime, award-winning Netflix originals, and more. Watch as much as you want, anytime you want.</p><br>
-        </details>
-        
-        <details class="a1" style="color: white;">
-            <summary>Netfix is good for kids</summary>
-            <p>The Netflix Kids experience is included in your membership to give parents control while kids enjoy family-friendly TV shows and films in their own space.</p><br>
-            <p>Kids profiles come with PIN-protected parental controls that let you restrict the maturity rating of content kids can watch and block specific titles you don’t want kids to see.</p>
-        </details>  
-
-        <div id="h3">
-            <h3>Ready to watch? Enter your email to create or restart your membership.</h3>
-        </div>
-        <br>
-        <div class="f1" class="flex">
-            <label for="inp2"></label>
-            <input type="email" name="inp2" id="" placeholder="Email address" style="height: 56px; background-color: black; width: 320px; border: 1px solid white; border-radius: 5px; padding-left: 10px; cursor: text; background: transparent;">
-            <input type="button" value="Get Start >" style="height: 55px; background-color:red; width: 200px;border: 1px solid red; border-radius:5px; color: white; font-size:20px;">
-        </div>
-</section>
-       <br><br><br>
-       <hr size="10px" color="gray">
-       <table>
-        <td>
-            <tr></tr>
-            <tr></tr>
-            <tr></tr>
-        </td>
-        <td>
-            <tr></tr>
-            <tr></tr>
-            <tr></tr>
-        </td>
-        <td>
-            <tr></tr>
-            <tr></tr>
-            <tr></tr>
-        </td>
-       </table>
-       ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-</body>
-</html>
-<style>
-#nav1{
+        #nav1{
     height: 40px;
     width: cover;
     border: 1px solid none;
@@ -608,4 +474,139 @@ margin-left: 505px;
         
 
 
+
+
+    </style>
+</head>
+<body>
+    <section class="sec1">
+    <h1 id="Net">NETFLIX</h1>
+        <div class="nav"><select name="" id="lang" class="line">
+                <option value="">English</option>
+                <option value="">Hindi</option>
+                <option value="">Marathi</option></select>
+                <a href="http://www.netfix.com" style="text-align:center">Sign up</a>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+        </div>
+        <div id="text"><h1 class="text">
+            The biggest Indian hits. The best Indian stories. All streaming here.</h1>    
+        </div>
+        <div class="para"><h2>Watch anywhere. Cancel anytime.<br><br>
+                       <h3>Ready to watch? Enter your email to create or restart your membership.</h3>
+        </div>
+        <br>
+        <div class="f1" class="flex">
+            <label for="inp2"></label>
+            <input type="email" name="inp2" id="" placeholder="Email address" style="height: 56px; background-color: black; width: 320px; border: 1px solid white; border-radius: 5px; padding-left: 10px; cursor: text; background: transparent; color:aliceblue;">
+            <input type="button" value="Get Start >" style="height: 55px; background-color:red; width: 200px;border: 1px solid red; border-radius:5px; color: white; font-size:20px;">
+        </div>
+    </section>
+       <!-- 1st page code ended -->
+        <hr size="10px" color="gray">
+
+<section class="sec">
+    <div class="div1"><h1 class="text">Enjoy on your TV</h1></div>
+    <div class="div2"><p>Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p></div>
+    <div class="home"><img src="./Netflix-2.jpg" alt="" style="height: 192px; width: 335px;"></div>
+    <div class="img1"><img src="./tv.png" alt="" style="height: 354px; width: 463px;"></div>
+    
+</section>
+       <hr size="10px" color="gray">
+       <!--2nd page code ended -->
+
+<section class="sec">
+    <div class="div3"><h1 class="text">Download your shows to watch offline</h1></div>
+    <div class="div4"><p>Save your favourites easily and always have something to watch.</p></div>
+    <div class="img2"><img src="./mobile-0819.jpg" alt="" style="height: 354px; width: 463px;"></div>
+</section>
+    <hr size="10px" color="gray">
+    <!--3rd page code ended -->
+
+<section class="sec">
+    <div class="div1"><h1 class="text">Watch Everwhere</h1></div>
+    <div class="div2"><p>Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</p></div>
+    <div class="img1"><img src="./device-pile-in.png" alt="" style="height: 354px; width: 463px;"></div>
+</section>
+    <hr size="10px" color="gray">
+    <!--4th page code ended -->
+
+<section class="sec">
+    <div class="div3"><h1 class="text">Create profiles for kids</h1></div>
+    <div class="div4"><p>Send children on adventures with their favourite characters in a space made just for them—free with your membership.</p></div>
+    <div class="img2"><img src="./img3.png" alt="" style="height: 354px; width: 463px;"></div>
+</section>
+    <hr size="10px" color="gray">
+    <!--5th page code ended -->
+
+<section id="sec2">
+        <h1 id="text2">Frequently Asked Questions</h1>
+        div<details class="a1" style="color: white;">
+            <summary>What is Netflix?</summary>
+            <p>Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more – on thousands of internet-connected devices.</p><br>
+            <p>You can watch as much as you want, whenever you want, without a single ad – all for one low monthly price. There's always something new to discover, and new TV shows and movies are added every week!</p>
+        </details>
+
+        <details class="a1" style="color: white;">
+            <summary>How much does Netflix cost?</summary>
+            <p>Watch Netflix on your smartphone, tablet, Smart TV, laptop, or streaming device, all for one fixed monthly fee. Plans range from ₹149 to ₹649 a month. No extra costs, no contracts.</p>
+        </details>
+
+        <details class="a1" style="color: white;">
+            <summary>What is Netflix</summary>
+            <p>Watch anywhere, anytime. Sign in with your Netflix account to watch instantly on the web at netflix.com from your personal computer or on any internet-connected device that offers the Netflix app, including smart TVs, smartphones, tablets, streaming media players and game consoles.</p><br>
+            <p>You can also download your favourite shows with the iOS, Android, or Windows 10 app. Use downloads to watch while you're on the go and without an internet connection. Take Netflix with you anywhere.</p>
+        </details>  
+
+        <details class="a1" style="color: white;">
+            <summary>Where i can watch</summary>
+            <p>Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more – on thousands of internet-connected devices.</p><br>
+        </details>
+
+        <details class="a1" style="color: white;">
+            <summary>How do i cancel</summary>
+            <p>Netflix is flexible. There are no annoying contracts and no commitments. You can easily cancel your account online in two clicks. There are no cancellation fees – start or stop your account anytime.</p><br>
+        </details>
+
+        <details class="a1" style="color: white;">
+            <summary>What can i watch on Netflix</summary>
+            <p>Netflix has an extensive library of feature films, documentaries, TV shows, anime, award-winning Netflix originals, and more. Watch as much as you want, anytime you want.</p><br>
+        </details>
+        
+        <details class="a1" style="color: white;">
+            <summary>Netfix is good for kids</summary>
+            <p>The Netflix Kids experience is included in your membership to give parents control while kids enjoy family-friendly TV shows and films in their own space.</p><br>
+            <p>Kids profiles come with PIN-protected parental controls that let you restrict the maturity rating of content kids can watch and block specific titles you don’t want kids to see.</p>
+        </details>  
+
+        <div id="h3">
+            <h3>Ready to watch? Enter your email to create or restart your membership.</h3>
+        </div>
+        <br>
+        <div class="f1" class="flex">
+            <label for="inp2"></label>
+            <input type="email" name="inp2" id="" placeholder="Email address" style="height: 56px; background-color: black; width: 320px; border: 1px solid white; border-radius: 5px; padding-left: 10px; cursor: text; background: transparent;">
+            <input type="button" value="Get Start >" style="height: 55px; background-color:red; width: 200px;border: 1px solid red; border-radius:5px; color: white; font-size:20px;">
+        </div>
+</section>
+       <br><br><br>
+       <hr size="10px" color="gray">
+       <table>
+        <td>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+        </td>
+        <td>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+        </td>
+        <td>
+            <tr></tr>
+            <tr></tr>
+            <tr></tr>
+        </td>
+       </table>
+       ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+</body>
+</html>
 
